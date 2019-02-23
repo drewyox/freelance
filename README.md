@@ -13,6 +13,13 @@ _This is a mockup of a website for a co-work space business. The website will in
 
 * _No Setup/Installation Required_
 
+# _Images of Sketches_
+![Image1](20190222_165535.jpg)
+![Image2](20190222_165541.jpg)
+![Image3](20190222_165543.jpg)
+![Image4](20190222_165538.jpg)
+![Image5](20190222_165529.jpg)
+
 ## User Stories
 
 * _New User, who is not affiliated with a tech company:_

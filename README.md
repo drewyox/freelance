@@ -40,6 +40,13 @@ _This is a mockup of a website for a co-work space business. The website will in
 * _Pain Points: Doesn't want to be bogged down by continually being asked to join their site if they are already a member._
 * _How Can We Serve?: Include a login so returning users can both avoid constant prompts for joining, and contribute to the site either through events._
 
+## User Personas
+
+* _As a small business owner, I would like to find a workspace that is tailored to my team and their fun personality._
+* _As a small business owner who is in the workspace already, I would like a clear and reliable way to stay updated on the changes and features added to this workspace._
+* _As an employee working in this workspace, I would like a fast, easy way to connect with others around me in a social sense.
+* _As a potential workspace candidate, I would like a clear and ordered list of what amenities area availabe, whether it be the physical space itself or the services provided._
+
 ## Known Bugs
 
 * _There are no known bugs._

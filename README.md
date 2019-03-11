@@ -25,7 +25,7 @@ _This is a mockup of a website for a co-work space business. The website will in
 
 # _Screen Shots of WireFrame_
 
-![Image6](wireFrame.png)
+![Image6](wireframe.png)
 ![Image7](symbols.png)
 
 ## User Stories
